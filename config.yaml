@@ -1,0 +1,6 @@
+chatGPTAccountPool:
+  - email: lcssxl@gmail.com
+    password: liuchsh123
+    isGoogleLogin: false
+chatPrivateTiggerKeyword: ""
+openAIProxy: ""
